@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCkNIS0e1/oLFyxGOr7CjPTDCKpZB4+jowuyeq3LLq1PwLKf7a4v0lTBNuDeckBUjhHxmz85N/0MbqIXB+dypg==",
+  "dgSpecHash": "RF40pS1ivnAf0IIizzIwqpXzLzXpDK1NO2Ge2VzjU9vihxPhmwoDdpoB0SdgPBYJaLc9kFpqcmhSODaGt2Egeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gucht\\Testing\\Lab 9\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
+  "projectFilePath": "C:\\Users\\gucht\\Testing\\Lab 10\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gucht\\.nuget\\packages\\anglesharp\\1.1.0\\anglesharp.1.1.0.nupkg.sha512",
     "C:\\Users\\gucht\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",

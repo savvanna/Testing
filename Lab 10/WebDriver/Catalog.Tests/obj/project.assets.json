@@ -1344,11 +1344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gucht\\Testing\\Lab 9\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\gucht\\Testing\\Lab 10\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
       "projectName": "Catalog.Tests",
-      "projectPath": "C:\\Users\\gucht\\Testing\\Lab 9\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
+      "projectPath": "C:\\Users\\gucht\\Testing\\Lab 10\\WebDriver\\Catalog.Tests\\Catalog.Tests.csproj",
       "packagesPath": "C:\\Users\\gucht\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gucht\\Testing\\Lab 9\\WebDriver\\Catalog.Tests\\obj\\",
+      "outputPath": "C:\\Users\\gucht\\Testing\\Lab 10\\WebDriver\\Catalog.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gucht\\AppData\\Roaming\\NuGet\\NuGet.Config",

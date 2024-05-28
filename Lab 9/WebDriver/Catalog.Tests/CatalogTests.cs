@@ -30,11 +30,10 @@ public class CatalogTests
         inputField.SendKeys(Keys.Enter);
         var notificationXPath = "/html/body/div/div/div/main/header/div/div[2]";
         _wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementIsVisible(By.XPath(notificationXPath)));
+
+        var notificationText = _driver.FindElement(By.XPath("/html/body/div/div/div/main/header/div/div[2]/p")).Text;
+        Assert.That(notificationText, Is.EqualTo("Ничего не найдено. Попробуйте изменить запрос и мы поищем ещё раз."));
     }
-
-
-
-
 
     [TearDown]
     public void TearDown()
