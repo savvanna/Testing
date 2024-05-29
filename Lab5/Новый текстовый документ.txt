@@ -1,0 +1,2 @@
+mvn -v
+c:\Users\gucht\.m2\repository\junit\junit-- dir
